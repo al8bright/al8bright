@@ -63,6 +63,7 @@ After building public-sector systems, ERP integrations and startup products, I n
 | Project | What it does |
 |---|---|
 | [**Social of Peach**](https://socialofpeach.com) | Personal dev blog (Korean). Posts, tags, comments, dark mode and SEO, all built from scratch |
+| [flask-starter](https://github.com/al8bright/flask-starter) | One command generates a Flask + PostgreSQL project with login, admin screens, notices, DB migrations and CI. [Project site (Korean)](https://flask.socialofpeach.com) |
 | [fastapi-svelte-pg-starter](https://github.com/al8bright/fastapi-svelte-pg-starter) | FastAPI + SvelteKit + PostgreSQL starter |
 | [fastapi-nuxt-pg-starter](https://github.com/al8bright/fastapi-nuxt-pg-starter) | FastAPI + Nuxt + PostgreSQL starter |
 | [hermes-slack](https://github.com/al8bright/hermes-slack) | A virtual dev team of 10 AI agents with distinct roles, working on a Kanban board and talking in Slack |

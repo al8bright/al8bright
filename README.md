@@ -63,6 +63,7 @@
 | 프로젝트 | 내용 |
 |---|---|
 | [**소셜 오브 복숭아**](https://socialofpeach.com) | 개발 경험을 기록하는 개인 블로그. 글 · 태그 · 댓글 · 다크 모드 · SEO까지 직접 구현 |
+| [flask-starter](https://github.com/al8bright/flask-starter) | 명령 한 줄로 로그인 · 관리자 화면 · 공지 · DB 마이그레이션 · CI를 갖춘 Flask + PostgreSQL 프로젝트를 만드는 스타터. [소개 사이트](https://flask.socialofpeach.com) |
 | [fastapi-svelte-pg-starter](https://github.com/al8bright/fastapi-svelte-pg-starter) | FastAPI + SvelteKit + PostgreSQL 스타터 |
 | [fastapi-nuxt-pg-starter](https://github.com/al8bright/fastapi-nuxt-pg-starter) | FastAPI + Nuxt + PostgreSQL 스타터 |
 | [hermes-slack](https://github.com/al8bright/hermes-slack) | 역할 · 성향을 나눈 AI 10명이 Kanban으로 협업하고 Slack에서 대화하는 가상 개발팀 |
