@@ -75,7 +75,7 @@ After building public-sector systems, ERP integrations and startup products, I n
 
 | Period | Company | Role |
 |---|---|---|
-| 2021.07 – now | Dental implant manufacturer | Team Lead, Business Apps, Software Development |
+| 2021.07 – now | Dental implant manufacturer | Team Lead, Software Team |
 | 2018.07 – 2021.07 | Public-sector SI company | Web Developer |
 | 2015.12 – 2018.03 | Industrial equipment R&D company | Software Engineer, R&D Lab |
 | 2012 – 2015 | Web agencies, e-commerce startup, IT services | Web Developer |
