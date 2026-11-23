@@ -39,7 +39,11 @@
 
 ### 📝 Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [모션 디자인 스타일 15가지 — 코드로 만드는 모션 그래픽](https://socialofpeach.com/posts/%EB%AA%A8%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-15%EA%B0%80%EC%A7%80-%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%AA%A8%EC%85%98-%EA%B7%B8%EB%9E%98%ED%94%BD) <sub>2026-11-21</sub>
+- [서버 보안 패치와 프론트 · 백엔드 의존성 버전업](https://socialofpeach.com/posts/%EC%84%9C%EB%B2%84-%EB%B3%B4%EC%95%88-%ED%8C%A8%EC%B9%98%EC%99%80-%ED%94%84%EB%A1%A0%ED%8A%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%B2%84%EC%A0%84%EC%97%85) <sub>2026-11-21</sub>
+- [TimesFM 3.0 시계열 파운데이션 모델 분석](https://socialofpeach.com/posts/timesfm-3-0-%EC%8B%9C%EA%B3%84%EC%97%B4-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8-%EB%B6%84%EC%84%9D) <sub>2026-11-04</sub>
+- [agent-desktop 접근성 트리 기반 데스크톱 제어](https://socialofpeach.com/posts/agent-desktop-%EC%A0%91%EA%B7%BC%EC%84%B1-%ED%8A%B8%EB%A6%AC-%EA%B8%B0%EB%B0%98-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%A0%9C%EC%96%B4) <sub>2026-11-04</sub>
+- [터미널 테마 비교 화면](https://socialofpeach.com/posts/%ED%84%B0%EB%AF%B8%EB%84%90-%ED%85%8C%EB%A7%88-%EB%B9%84%EA%B5%90-%ED%99%94%EB%A9%B4) <sub>2026-11-02</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그에서 더 보기](https://socialofpeach.com)
