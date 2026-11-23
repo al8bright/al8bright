@@ -1,3 +1,5 @@
+<p align="right"><b>한국어</b> · <a href="https://github.com/al8bright/al8bright/blob/main/README.en.md">English</a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" alt="Ethan. 아이디어를 빠르게 동작하는 제품으로 만듭니다." width="100%">
