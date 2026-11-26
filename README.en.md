@@ -67,6 +67,7 @@ After building public-sector systems, ERP integrations and startup products, I n
 | [fastapi-svelte-pg-starter](https://github.com/al8bright/fastapi-svelte-pg-starter) | FastAPI + SvelteKit + PostgreSQL starter |
 | [fastapi-nuxt-pg-starter](https://github.com/al8bright/fastapi-nuxt-pg-starter) | FastAPI + Nuxt + PostgreSQL starter |
 | [hermes-slack](https://github.com/al8bright/hermes-slack) | A virtual dev team of 10 AI agents with distinct roles, working on a Kanban board and talking in Slack |
+| [jamak_converter](https://github.com/al8bright/jamak_converter) | Desktop app that makes Korean subtitles (SRT / ASS / VTT) from Japanese anime and drama. Speech recognition and translation run on your local GPU, with optional cloud translation (Claude, Gemini and more) |
 | [video-converter](https://github.com/al8bright/video-converter) | Desktop video converter with NVIDIA CUDA / NVENC hardware acceleration |
 | [audio-converter](https://github.com/al8bright/audio-converter) | Desktop app that shrinks MP3 files by lowering the bitrate |
 

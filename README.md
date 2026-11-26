@@ -67,6 +67,7 @@
 | [fastapi-svelte-pg-starter](https://github.com/al8bright/fastapi-svelte-pg-starter) | FastAPI + SvelteKit + PostgreSQL 스타터 |
 | [fastapi-nuxt-pg-starter](https://github.com/al8bright/fastapi-nuxt-pg-starter) | FastAPI + Nuxt + PostgreSQL 스타터 |
 | [hermes-slack](https://github.com/al8bright/hermes-slack) | 역할 · 성향을 나눈 AI 10명이 Kanban으로 협업하고 Slack에서 대화하는 가상 개발팀 |
+| [jamak_converter](https://github.com/al8bright/jamak_converter) | 일본어 애니 · 드라마 영상에서 한국어 자막(SRT · ASS · VTT)을 만드는 데스크톱 앱. 음성 인식과 번역을 내 PC GPU에서 처리하고, 번역은 Claude · Gemini 등 클라우드로도 가능 |
 | [video-converter](https://github.com/al8bright/video-converter) | NVIDIA CUDA · NVENC 하드웨어 가속 영상 변환 데스크톱 앱 |
 | [audio-converter](https://github.com/al8bright/audio-converter) | MP3 비트레이트를 낮춰 용량을 줄이는 데스크톱 앱 |
 
